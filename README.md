@@ -1,2 +1,2 @@
-# Covid-19_predictor
-This project is to build Machine Learning models to predict the countrywise statistics of the novel coronavirus patients
+# Benchmarking of NODE
+This project is to compare Neural Ordinary Differential Equations to other neural networks and machine learning algorithms.
