@@ -13,7 +13,7 @@ The Neural Networks included:
 The Machine Learning algorithms included:
 - Gradient Boosting
 - Linear Regression 
-- Polynominal Regression
+- Polynomial Regression
 
 ## Image Processing
 This was done in order to compare the performance of NODE with respect to the MNIST and CIFAR datasets.
